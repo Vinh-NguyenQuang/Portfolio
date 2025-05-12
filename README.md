@@ -43,7 +43,7 @@
 
   <h2>📬 Contact Me</h2>
   <ul>
-    <li>Email: <a href="mailto:vinh1208@gmail.com">your.email@example.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/nguyen-quang-vinh-170a5019b/" target="_blank">linkedin.com/in/yourprofile</a></li>
-    <li>GitHub: <a href="https://github.com/Vinh-NguyenQuang" target="_blank">github.com/yourusername</a></li>
+    <li>Email: <a href="mailto:vinh1208@gmail.com"></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/nguyen-quang-vinh-170a5019b/" target="_blank"></li>
+    <li>GitHub: <a href="https://github.com/Vinh-NguyenQuang" target="_blank"></li>
   </ul>
