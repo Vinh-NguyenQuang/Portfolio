@@ -43,7 +43,7 @@
 
   <h2>📬 Contact Me</h2>
   <ul>
-    <li>Email: vinh1208@gmail.com"</li>
-    <li>LinkedIn:https://www.linkedin.com/in/nguyen-quang-vinh-170a5019b/</li>
-    <li>GitHub: "https://github.com/Vinh-NguyenQuang></li>
+    <li>Email: vinh1208@gmail.com </li>
+    <li>LinkedIn: https://www.linkedin.com/in/nguyen-quang-vinh-170a5019b/</li>
+    <li>GitHub: https://github.com/Vinh-NguyenQuang </li>
   </ul>
